@@ -13,8 +13,9 @@ public class main {
         peersArray[3] = new Person("Петросян Петр","Юморист","тао@mail.ru","86254128956",50000, 36);
         peersArray[4] = new Person("ушаков Кирилл","Актер","ьлв@mail.ru","82594178936",45000,29);
         for (Person person:peersArray) {
+            
             person.getAgs();
-              
+
 
         }
 
