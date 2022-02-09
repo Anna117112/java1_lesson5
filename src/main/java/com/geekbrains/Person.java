@@ -12,8 +12,7 @@ public class Person {
     public Person(){
 
     }
-
-
+    
         public Person(String fullName, String position, String email, String telephone, double pay, int ags){
         this.fullName = fullName;
         this.position = position;
