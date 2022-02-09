@@ -3,7 +3,7 @@ package com.geekbrains;
 public class main {
 
     public static void main(String[] args) {
-        
+
 
 
         Person[] peersArray = new Person[5];
